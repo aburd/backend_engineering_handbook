@@ -1,9 +1,11 @@
 ---
-title: How Does the Internet Work?
-description:
+title: Welcome to the Internet! 
+description: An Overview of the internet
 tags:
 # cover_image:
 ---
+
+# How does the Internet work?
 
 ## Internet Protocol Suite
 

@@ -5,11 +5,11 @@ tags:
 # cover_image:
 ---
 
-Welcome to the Backend Web Developer's Handbook. You may be here because you would like to start your career as a backend web developer and you don't know where to start. Or perhaps you've just heard terms like "backend engineer", "backend developer", or "serverside engineer", and you want more context. Or maybe you're already a backend web developer, but you want a refresher. Further still, maybe you are just someone working in web-development and you want some clarity on what people mean by "backend". Well, this resource is for you. 
+Welcome to the Backend Web Developer's Handbook. You may be here because you want to start your career as a backend web developer and you're not sure where to start. Or perhaps you've just heard terms like "backend engineer", "backend developer", or "server-side engineer", and you want more context. Or maybe you're already a backend web developer, but you want a refresher. Further still, maybe you are just someone working in web-development and you want some clarity on what people mean by "backend". Well, this resource will give you a high-level understanding on many of the topics a backend web developer should know about. 
 
 ## The breadth and depth of this guide
 
-Before starting to read this, remember that this guide is meant to be just that, a guide. Think of this like a hiking guide, a hiking guide will show you the layout of the area, the broad peaks and valleys, contextualize each area and even lead you to some nice streams and rivers. They will *stick to the trail for the most part* and they will **not** be teaching you comprehensively about the entire ecosystem. Which is to say, should you the reader want to become an expert, reading this will not get you there. However, it may be a good first step! 
+Before we begin, just remember that this handbook is simply a guide, not an encyclopedia. I would liken this guide to hiking with a trail guide: a hiking guide will show you the layout of the area, the broad peaks and valleys, contextualize each area and maybe even lead you to some overlooked streams. They will, however, *stick to the trail* for the most part and they will **not** be teaching you comprehensively or in much detail about the entire ecosystem. Which is to say, should you want to become an expert, only reading this will not get you there. However, it may be a good first step! 
 
 In essence, the **breadth** of this guide will be very wide, I will guide you through a lot of territory! The **depth** of this guide will be very shallow, I will not go into any great detail on any one topic.
 
@@ -23,17 +23,17 @@ Well you're in the wrong place, but I can recommend some resources that this gui
 
 ### On words
 
-Words are just abstractions and in computing this doubly true. It is more important to understand the concepts behind the words rather than trying to deal with absolutes. However, I hope this material gives the reader some solid ground to stand on.
+Words are just abstractions and in computing this is doubly true. It is more important to understand the concepts behind the words rather than trying to deal with absolutes. However, I hope this material gives the reader some solid ground to stand on.
 
 ### On "web developer"
 
-The field of computing is a ever extending tapestry of different disciplines. Those disciplines are applied in a great number of contexts and industries (i.e. not web/internet related). Even the study of the web/internet itself is a gigantic field rich with its own history and topics that could easily take a lifetime to truly understand. Therefore, a "web developer" may understand subjects used in other fields of computing, but most likely not all of them and not necessarily how to apply that knowledge. This material pertains specifically to those who want to understand how to develop software *for "the web"*.  
+The field of computing is a growing tree of different disciplines. Those disciplines are applied in a great number of contexts and industries (i.e. not web/internet related). Some of those disciplines may use terms like "backend" and "frontend". Even *within* the web-development space, people use those terms to sometimes refer to different things (i.e. the backend of code library). So I will just state upfront, that this handbook is for those who want to develop software for the web platform. 
 
 ### On "backend"
 
-So what then is a "backend web developer"? Hopefully this work will illuminate that question. 
+So what then is a *backend* web developer? 
 
-But suffice it to say, that backend refers to a certain subset of the work necessary to deliver applications over the web, particularly the work dealing with parts of the web application which are not directly touched by the users. It does not refer to *everything* necessary to deliver that application over the web, nor is it a term with some static meaning. The field of web development is ever changing with the advent of new practices, tools, platform capabilities, etc. Jobs come and go as technology changes.
+The short answer is, someone who works on the parts of a web application which are not directly touched by the users (think business logic, databases and APIs). The long answer is, it depends. Although there are boundaries to the word, the scope of "backend" can change depending on your team's situation or changes in the industry. 
 
-Therefore, it is important to understand the context and why a "backend" developer would be necessary. To that end, this work will deal the larger picture and other positions (e.g. frontend web developer) to help the reader connect the dots. 
+Therefore, it is important to understand the context and why a "backend" developer would be necessary. To that end, this work will show a zoomed-out view to help the reader connect the dots. 
 
