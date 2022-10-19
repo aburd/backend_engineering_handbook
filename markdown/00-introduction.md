@@ -5,7 +5,11 @@ tags:
 # cover_image:
 ---
 
-Welcome to the Backend Web Developer's Handbook. You may be here because you want to start your career as a backend web developer and you're not sure where to start. Or perhaps you've just heard terms like "backend engineer", "backend developer", or "server-side engineer", and you want more context. Or maybe you're already a backend web developer, but you want a refresher. Further still, maybe you are just someone working in web-development and you want some clarity on what people mean by "backend". Well, this resource will give you a high-level understanding on many of the topics a backend web developer should know about. 
+Welcome to the Backend Web Developer's Handbook. You may be here because you want to start your career as a backend web developer and you're not sure where to start. Or perhaps you've just heard terms like "backend engineer", "backend developer", or "server-side engineer", and you want more context. Or maybe you're already a backend web developer, but you want a refresher. Further still, maybe you are just someone working in web-development and you want some clarity on what people mean by "backend". Well, this resource will give you an introduction to many of the topics a backend web developer should know about. 
+
+## On Style
+
+I will be writing this in a somewhat cutesy tour-guide style which hopefully takes some of the edge of the material off. I know some of you will hate this, too bad. However I will try to keep the terrible jokes to a minimum. In addition, illustrations and relation to things in the real world help me understand things. Hopefully they do for you as well.
 
 ## The breadth and depth of this guide
 
@@ -37,3 +41,7 @@ The short answer is, someone who works on the parts of a web application which a
 
 Therefore, it is important to understand the context and why a "backend" developer would be necessary. To that end, this work will show a zoomed-out view to help the reader connect the dots. 
 
+
+## Ok, I'm Ready... 
+
+With all that out of the way, let's get started 
